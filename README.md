@@ -3,7 +3,7 @@
 
 <h3 align="left">Want to know about my experience?:</h3>
 <p align="left">
-- Software Engineering Intern @ NVIDIA (US)
+- Software Engineering Intern @ NVIDIA (US) <br />
 - Software Engineering Intern @ CISCO (India)
 - Machine Learning Intern @ Rootee Health (South Korea)
 - Machine Learning Research Intern @ CEERI Pilani (India)
