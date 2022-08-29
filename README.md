@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Aditya Rustagi</h1>
 <h3 align="center">A graduate student at UC San Diego majoring in Machine Learning and Data Science</h3>
 
-- 📄 Want to know about my experience? **Software Engineering Intern @ NVIDIA**
+<h3 align="left">Want to know about my experience?:</h3>
+<p align="left">
+- 📄  **Software Engineering Intern @ NVIDIA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
