@@ -3,11 +3,17 @@
 
 <h3 align="left">Want to know about my experience?:</h3>
 <p align="left">
-- 📄  **Software Engineering Intern @ NVIDIA**
+- Software Engineering Intern @ NVIDIA (US)
+- Software Engineering Intern @ CISCO (India)
+- Machine Learning Intern @ Rootee Health (South Korea)
+- Machine Learning Research Intern @ CEERI Pilani (India)
+- Android App Developer @ NTCL India (India)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+- Personal Email **aditya.rustagi54@gmail.com**
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-rustagi54/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-rustagi54/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
