@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Aditya Rustagi</h1>
-<h3 align="center">A graduate student at UC San Diego majoring in Machine Learning and Data Science</h3>
+<h3 align="center">MS Machine Learning and Data Science @ UC San Diego, MS Chemistry @ Birla Institute of Technology and Science Pilani</h3>
 
 <h3 align="left">Want to know about my experience?:</h3>
 <p align="left">
+- MLOps Data Engineer @ CVS Health (USA) <br />
 - Software Engineering Intern @ NVIDIA (USA) <br />
 - Software Engineering Intern @ CISCO (India) <br />
 - Machine Learning Intern @ Rootee Health (South Korea) <br />
